@@ -1,2 +1,5 @@
 revision/49147.json.gz filter=lfs diff=lfs merge=lfs -text
 revision/265083.json.gz filter=lfs diff=lfs merge=lfs -text
+baselist/dic/doi+crossref_metadata.jsonl.gz filter=lfs diff=lfs merge=lfs -text
+baselist/dic/doi+issn+field.jsonl.gz filter=lfs diff=lfs merge=lfs -text
+baselist/dic/list_bot.jsonl.gz filter=lfs diff=lfs merge=lfs -text
