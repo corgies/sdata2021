@@ -1,14 +1,14 @@
-require 'json'
-require 'zlib'
 require 'cgi'
+require 'json'
 require 'time'
+require 'zlib'
 
-def str_normalize(str)
-  result = str
+def str_normalize(raw)
+  result = raw.dup
 
   if result.nil? == false
     result.scrub!('')
-    CGI.unescape(result)
+    result = CGI.unescape(result)
     result.scrub!('')
     result = result.downcase
   end
