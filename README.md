@@ -8,7 +8,7 @@ Referencing scholarly documents as information sources on Wikipedia is important
 ## Requirements
 - This program is written in Ruby, so it requires a Ruby environment and the gems such as 'levenshtein', 'nokogiri', 'sanitize', and 'htmlentities.'
 - Installing ParsCit (https://github.com/knmnyn/ParsCit) is required to run this program.
-  - It is needed to be changed ``@path_parscit'' value in extract_by_paper_title_similarity_step1.rb depending on your environment.
+  - It is needed to be changed "@path_parscit" value in extract_by_paper_title_similarity_step1.rb depending on your environment.
 
 ## Usage
 Due to file size limitations, sample data of the revisions of the pages "Fair trade" and "Solomon Islands" and identifiers referenced on them are available on this repository. To generate the full dataset, some preprocessing is needed. Please refer to the data descriptor above for the details of them.
