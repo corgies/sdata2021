@@ -17,9 +17,9 @@ Due to file size limitations, sample data of the revisions of the pages "Fair tr
 
 ## References
 ### Dataset
-- Kikkawa, J., Takaku, M. & Yoshikane, F. Dataset of first appearances of the scholarly bibliographic references on English Wikipedia articles as of 1 March 2017 and as of 1 October 2021. *Zenodo* https://doi.org/10.5281/zenodo.5595573 (2021).
+- Kikkawa, J., Takaku, M. & Yoshikane, F. "Dataset of first appearances of the scholarly bibliographic references on English Wikipedia articles as of 1 March 2017 and as of 1 October 2021". *Zenodo* https://doi.org/10.5281/zenodo.5595573 (2021).
 ### Paper
-- Kikkawa, J., Takaku, M. & Yoshikane, F. Dataset of first appearances of the scholarly bibliographic references on Wikipedia articles (submitted to _**Scientific Data**_ as a Deta Descriptor).
+- Kikkawa, J., Takaku, M. & Yoshikane, F. "Dataset of first appearances of the scholarly bibliographic references on Wikipedia articles", *Scientific Data*, Vol. 9, No. 1, pp. 1-11, 2022. https://doi.org/10.1038/s41597-022-01190-z.
 
 
 ## Contact
